@@ -1,0 +1,252 @@
+{
+  "homepages": [],
+  "source_base_path": "F:/Projects/StarterPack",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
+      "type": "Conceptual",
+      "source_relative_path": "api/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/index.html",
+          "hash": "6kPuvJc9R9ndeG/BXA/ON7wwONpNZVUwQOsMpBZCYG8="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "drTBUootrlwZ8EPV3+uqpsi1Q/s3WVaKbsDA0kjfy2U="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/StvDEV.StarterPack.GUIManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/StvDEV.StarterPack.GUIManager.html",
+          "hash": "0EFVFV5DN5l89zWcVkkH4gYs8CvGgY+dCaRRDHPOqqc="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/StvDEV.StarterPack.GUIMenu.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/StvDEV.StarterPack.GUIMenu.html",
+          "hash": "CtG3VdJh3yxrRyN70V305HpgFmKdMQDKdkNPiC/Jw+8="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/StvDEV.StarterPack.GlobalEvent-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/StvDEV.StarterPack.GlobalEvent-1.html",
+          "hash": "Gjsa9lA95hVL6n/V+iKcGHBSKdKFR3ByZ9eCC4FTLPI="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/StvDEV.StarterPack.MonoBehaviourSingleton-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/StvDEV.StarterPack.MonoBehaviourSingleton-1.html",
+          "hash": "jxZ0cHX9qDkZtN2JeQUCLcebcwNngRjne//Gk1HwlCw="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/StvDEV.StarterPack.PrefsValue-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/StvDEV.StarterPack.PrefsValue-1.html",
+          "hash": "kci8UWIql67kPqpxbOfuv2vcsG+QKE5kAp53v1xcsGY="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/StvDEV.StarterPack.Settings.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/StvDEV.StarterPack.Settings.html",
+          "hash": "X/yZzV8bqU8SuwpF2U2tiFWbOVDSbIaw2r/7L7OJdGY="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/StvDEV.StarterPack.Singleton-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/StvDEV.StarterPack.Singleton-1.html",
+          "hash": "lnSzpFNlVFKU+5sjLWpUr1VHVa9AumWIz3CgGyosCXc="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/StvDEV.StarterPack.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/StvDEV.StarterPack.html",
+          "hash": "Jrx6CxbB4E0i7PSR9RQeYiFQ7hBd5NB0C5knodO+jbs="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/StvDEV.Vibration.AndroidVibrationManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/StvDEV.Vibration.AndroidVibrationManager.html",
+          "hash": "W+Rs2ePL4JY6cmevLUMP3oXLoMAC+tEBz0cJxr0lDIs="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/StvDEV.Vibration.VibrationLength.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/StvDEV.Vibration.VibrationLength.html",
+          "hash": "6ybkLDszwNY8vF1VuM411ZtlTEslNK7tTpJ8zW9+660="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/StvDEV.Vibration.VibrationStrength.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/StvDEV.Vibration.VibrationStrength.html",
+          "hash": "uDIn1v0thcgLD9FxeLb10/yLffqbICFiYjrrqwpYiF8="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/StvDEV.Vibration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/StvDEV.Vibration.html",
+          "hash": "5DZtd66MN/OXyShGHgtff6GgDLJE5ZdwT/LetNcnjMA="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "obj/api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html",
+          "hash": "er4rv6WA0wi7kFYFn97uYRFABj+YlLLGseITtXJz988="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "h44BL+k3mfHlQoPzLfIcTO2dwgypIc0r7JF1Qi53MZc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": true,
+        "incrementalPhase": "build",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {
+        "ConceptualDocumentProcessor": {
+          "can_incremental": true,
+          "incrementalPhase": "build",
+          "total_file_count": 2,
+          "skipped_file_count": 1
+        },
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": true,
+          "incrementalPhase": "build",
+          "total_file_count": 12,
+          "skipped_file_count": 12
+        },
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": true,
+        "details": "Can support incremental post processing.",
+        "incrementalPhase": "postProcessing",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
